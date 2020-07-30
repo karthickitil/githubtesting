@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="testgithib" language="en" table="x_476516_github_te_testgithib">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>testgithib</label>
+            <language>en</language>
+            <name>x_476516_github_te_testgithib</name>
+            <plural>testgithibs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-30 19:01:56</sys_created_on>
+            <sys_id>05ae42ca2f125c10ec225fd62799b610</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>testgithib</sys_name>
+            <sys_package display_value="github testing" source="x_476516_github_te">acedca0a2f125c10ec225fd62799b6a5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="github testing">acedca0a2f125c10ec225fd62799b6a5</sys_scope>
+            <sys_update_name>sys_documentation_x_476516_github_te_testgithib__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-30 19:01:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

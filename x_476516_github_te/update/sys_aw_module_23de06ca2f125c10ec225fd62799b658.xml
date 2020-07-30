@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Lists Module Content">2bde06ca2f125c10ec225fd62799b660</content>
+        <content_attrs/>
+        <content_component display_value="sn-workspace-list-module">19622d2bff222300294153bd6338f1ef</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>list-outline</icon>
+        <id>list</id>
+        <label>Lists</label>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-30 19:02:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>23de06ca2f125c10ec225fd62799b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="github testing" source="x_476516_github_te">acedca0a2f125c10ec225fd62799b6a5</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="github testing">acedca0a2f125c10ec225fd62799b6a5</sys_scope>
+        <sys_update_name>sys_aw_module_23de06ca2f125c10ec225fd62799b658</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-30 19:02:56</sys_updated_on>
+        <toolbar_button display_value="Lists Button">27de06ca2f125c10ec225fd62799b658</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="github testing">3ade0a0a2f125c10ec225fd62799b6d3</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=23de06ca2f125c10ec225fd62799b658"/>
+</record_update>

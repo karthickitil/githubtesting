@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="testgithib" max_length="40" name="x_476516_github_te_testgithib" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="email id" max_length="40" name="email_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Phone no" max_length="40" name="phone_no" type="phone_number_e164"/>
+    </element>
+</database>
